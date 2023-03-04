@@ -23,6 +23,8 @@ script:
           green: 1
           blue: 1
 
+stairslight:
+
 light:
   - platform: neopixelbus
     num_leds: 300
